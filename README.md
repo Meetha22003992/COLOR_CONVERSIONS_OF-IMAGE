@@ -52,7 +52,7 @@ cv2.imshow('MEETHA',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-<br>OUTPUT
+<br>OUTPUT<br>
 ![image](https://github.com/Meetha22003992/COLOR_CONVERSIONS_OF-IMAGE/assets/119401038/2c14c66a-4086-4326-b23a-49671862940c)
 
 
