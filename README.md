@@ -194,8 +194,6 @@ cv2.destroyAllWindows()
 
 <br>INPUT<br>
 ```
-
-
 import cv2
 img = cv2.imread('dip.jpeg',1)
 img = cv2.resize(img,(300,200))
