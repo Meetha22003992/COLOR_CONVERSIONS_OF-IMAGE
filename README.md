@@ -43,9 +43,17 @@ Split and merge HSV Image
 ## Output:
 
 ### i) Read and display the image
+<br>INPUT:
+    import cv2
+    image=cv2.imread('dip.jpeg',1)
+    image=cv2.resize(image,(400,300))
+    cv2.imshow('MEETHA',image)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
 
-<br>
-<br>
+<br>OUTPUT
+![image](https://github.com/Meetha22003992/COLOR_CONVERSIONS_OF-IMAGE/assets/119401038/2c14c66a-4086-4326-b23a-49671862940c)
+
 
 ### ii)Write the image
 
