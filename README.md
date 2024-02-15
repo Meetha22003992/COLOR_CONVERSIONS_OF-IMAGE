@@ -185,7 +185,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 <br>OUTPUT<br>
-
+![Screenshot 2024-02-14 113548](https://github.com/Meetha22003992/COLOR_CONVERSIONS_OF-IMAGE/assets/119401038/fa5e8430-dbeb-485e-86fc-f4c9e1b4ae83)
 
 ### ix) Split and merge RGB Image
 
