@@ -1,6 +1,3 @@
-## NAME : MEETHA PRABHU 
-## REG NO: 212222240065
-
 
 # COLOR_CONVERSIONS_OF-IMAGE
 ## AIM
@@ -39,9 +36,9 @@ Split and Merge RGB Image
 ### Step10:
 Split and merge HSV Image
 
-##### Program:
-### Developed By:
-### Register Number: 
+##### Program:ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
+### Developed By:MEETHA PRABHU
+### Register Number: 212222240065
 
 
 ## Output:
